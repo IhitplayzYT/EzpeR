@@ -1,0 +1,2 @@
+void connectWiFi();
+bool discoverPi();
